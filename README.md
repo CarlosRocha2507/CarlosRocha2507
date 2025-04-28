@@ -4,7 +4,7 @@
 
 
 # 👨‍💻About me
-I'm a developer and team leader driven by curiosity and a deep passion for continuous learning. I believe there's always something new to explore, improve, or master — and that mindset is what keeps me moving forward every day.
+I'm a developer driven by curiosity and a deep passion for continuous learning. I believe there's always something new to explore, improve, or master — and that mindset is what keeps me moving forward every day.
 
 - 🔭 I’m currently working on **me.**
 
